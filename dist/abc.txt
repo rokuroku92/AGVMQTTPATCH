@@ -1,0 +1,14 @@
+{"AGV_Num":1,
+"CurrentTask":"CHARGE",
+"Status":[2,23,1,1,0],
+"ODO_Info":[151,-150,0,0,0,228,227,226,227,228],
+"TIMES":[6401,8,0,6393,0,0,0,0],
+"SPDs":[0,0,0,0],
+"SonicOption":0,
+"BTNs_Hex":"3840",
+"LastRFID":"A0228",
+"LastBT":"",
+"Volt":"28.5V/100%",
+"TotalDist":106610,
+"TotalTime":8388108}
+# A0054, A0053 RT_DATA/1
